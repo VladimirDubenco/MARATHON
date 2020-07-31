@@ -1,0 +1,9 @@
+try
+except
+raise
+
+f = open('d:/TEKWILL/PYTHON/MARATHON/Lesson_4/key.txt')
+r = f.read()
+print(r)
+f.close()
+Path D:\TEKWILL\PYTHON\MARATHON\Lesson_4\key.txt
